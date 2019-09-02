@@ -1,2 +1,5 @@
 # reg2json
-regstry to json
+
+```bash
+python reg2json.py SYSTEM SOFTWARE ....
+```
